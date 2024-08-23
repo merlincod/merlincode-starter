@@ -18,7 +18,7 @@ cd merlincode-starter
 ## 🚀 Utilisation
 Ouvrez index.html dans votre navigateur pour voir la page de démonstration et commencez à créer vos propres pages.
 
-##🛠️ Personnalisation et Maintenance
+## 🛠️ Personnalisation et Maintenance
 🔧 Ajoutez éventuellement plus de fonctionnalités comme un système de grille CSS, des formulaires stylisés, etc.
 
 
