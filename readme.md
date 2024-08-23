@@ -11,8 +11,8 @@ Bienvenue dans le starter front-end de **Merlin's Code** ! Ce projet est conçu 
 ## ⚙️ Installation
 Clonez ce repository et commencez à coder :
 ```bash
-git clone https://github.com/ton-compte/merlins-code-starter.git
-cd merlins-code-starter
+git clone https://github.com/merlincod/merlincode-starter.git
+cd merlincode-starter
 ```
 
 ## 🚀 Utilisation
